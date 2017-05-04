@@ -1,12 +1,19 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1491998185953
-Build-Jdk: 1.8.0_111
-Built-By: dwevedi
+Bnd-LastModified: 1493936664283
+Build-Jdk: 1.8.0_131
+Built-By: joshboyle
 Bundle-Description: Maven Multimodule project for AEM Live Trials.
 Bundle-ManifestVersion: 2
 Bundle-Name: AEM Live Trials Bundle
 Bundle-SymbolicName: com.adobe.livetrials.livetrials
 Bundle-Version: 0.0.1.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
+Export-Package: com.adobe.livetrials.models;uses:="org.apache.sling.api.
+ resource,org.apache.sling.models.annotations";version="0.0.1"
+Import-Package: javax.annotation,javax.inject,org.apache.sling.api.resou
+ rce;version="[2.10,3)",org.apache.sling.models.annotations;version="[1.
+ 4,2)",org.apache.sling.models.annotations.injectorspecific;version="[1.
+ 1,2)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
 Sling-Model-Packages: com.adobe.livetrials.models
 Tool: Bnd-2.3.0.201405100607

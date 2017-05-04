@@ -2,9 +2,9 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
 <comment>AEM Live Trials Content Package</comment>
-<entry key="createdBy">dwevedi</entry>
+<entry key="createdBy">joshboyle</entry>
 <entry key="name">livetrials.ui.apps</entry>
-<entry key="created">2017-04-12T13:56:26.498+0200</entry>
+<entry key="created">2017-05-04T15:24:24.865-0700</entry>
 <entry key="groupId">com.adobe.livetrials</entry>
 <entry key="version">0.0.1-SNAPSHOT</entry>
 <entry key="requiresRoot">false</entry>
