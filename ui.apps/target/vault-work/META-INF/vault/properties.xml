@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AEM Live Trials Content Package</comment>
+<entry key="createdBy">dwevedi</entry>
+<entry key="name">livetrials.ui.apps</entry>
+<entry key="created">2017-04-12T13:56:26.498+0200</entry>
+<entry key="groupId">com.adobe.livetrials</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">adobe/livetrials</entry>
+<entry key="description">Maven Multimodule project for AEM Live Trials.</entry>
+<entry key="artifactId">livetrials.ui.apps</entry>
+<entry key="path">/etc/packages/adobe/livetrials/livetrials.ui.apps.zip</entry>
+</properties>

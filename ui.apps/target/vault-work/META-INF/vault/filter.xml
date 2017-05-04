@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/livetrials" />
+    <filter root="/conf/livetrials" mode="merge" />
+    <filter root="/etc/clientlibs/livetrials" />
+    <filter root="/etc/designs/livetrials">
+        <include pattern="/etc/designs/livetrials" />
+        <include pattern="/etc/designs/livetrials/jcr:content" />
+    </filter>
+    <filter root="/content/livetrials" mode="merge" />
+</workspaceFilter>
